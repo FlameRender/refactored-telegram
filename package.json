@@ -1,23 +1,23 @@
 {
-  "name": "refactored-telegram",
+  "name": "refeactored-telegram",
   "version": "1.0.0",
-  "description": "",
+  "description": "fall 2022 spin up v2.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "node hello-node.js"
-},
+    "start": "node app.js"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FlameRender/refactored-telegram.git"
+    "url": "git+https://github.com/barrycumbie/studious-robot.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FlameRender/refactored-telegram/issues"
+    "url": "https://github.com/barrycumbie/studious-robot/issues"
   },
-  "homepage": "https://github.com/FlameRender/refactored-telegram#readme",
+  "homepage": "https://github.com/barrycumbie/studious-robot#readme",
   "dependencies": {
     "express": "^4.18.1"
   }
