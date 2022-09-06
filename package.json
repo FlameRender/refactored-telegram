@@ -1,7 +1,6 @@
 {
   "name": "refactored-telegram",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
@@ -22,6 +21,10 @@
   },
   "homepage": "https://github.com/FlameRender/refactored-telegram#readme",
   "dependencies": {
-    "express": "^4.18.1"
-  }
+    "body-parser": "^1.20.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "description": ""
 }
